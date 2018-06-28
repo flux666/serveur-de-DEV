@@ -1,0 +1,25 @@
+# plugin crée par flux666
+hub:
+  npc:
+    Enable: true
+    Damage: false
+  commands:
+    spawn:
+      world: world
+      x: 0
+      y: 5
+      z: 0
+      yaw: 0
+      pitch: 0
+    zonevip:
+      x: 0
+      y: 0
+      z: 0
+      x1: 0
+      y1: 0
+      z1: 0
+      world: world
+      backvip:
+        x: 0
+        y: 0
+        z: 0

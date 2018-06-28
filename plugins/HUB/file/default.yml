@@ -1,0 +1,43 @@
+message:
+  onJoin:
+    title: §5§lRagnaBlock
+    title0: §cbienvenue§0 §a§l►§0 §6
+  lucas: Mathis !
+  noPermission: §ctu na pas la permission d'utilliser cet command
+  TP:
+    hub/lobby: §2vous avez été TP au HUB / lobby
+    PvPbox: §2vous avez été TP au PVPbox
+    spawn: §2vous avez été tp au spawn
+  consoleError: §cla command doit etre executer par un joueur
+  setspawn:
+    msg1: '§2nouveaux spawn definit en x:'
+    msg2: '§2 y:'
+    msg3: '§2 z:'
+    msg4: '§2 world:'
+  setzonevip: §2nouvelle zone VIP défie
+  npc:
+    Disable: §cles npc ne sont pas activer sur le plugin
+    name:
+      TNTrun: §c§lTnTrun
+      PVPbox: §6§lPvPbox
+    Damage:
+      enable: '§2les domage pour les §6NPC§2 sont : §cactiver'
+      disable: '§2les domage pour les §6NPC§2 sont : §cdésactiver'
+  vip:
+    zonevip:
+      bienvenus: §2bienvenus dans la zone §6VIP
+      back: §ctu nas pas de grade §6VIP
+permission:
+  setspawn: hub.spawn
+  spawn: hub.spawn
+  hub: hub.hub
+  lobby: hub.lobby
+  PvPbox: hub.PvPbox
+  lucas: hub.lucas
+  setzonevip: hub.vip.setzonevip
+  vip: hub.vip.vip
+  npc: hub.npc.npc
+  npckill: hub.npc.npckill
+  ping: hub.ping
+  removevip: hub.vip.removevip
+  backvip: hub.vip.backvip
